@@ -63,13 +63,13 @@ Para esse desafio temos os seguintes testes:
 
 - **`should not be able to like a repository that does not exist`**: Para que esse teste passe, deve-se validar na rota de like se o id do repositório enviado pela url existe ou não. Caso não exista, retornar um erro com status `400`.
 
-## :calendar: Resultados
+## :chart_with_upwards_trend: Resultados
 
 A aplicação contemplou todos os testes submetidos e mencionados acima.
 
 <img alt="Resultado dos testes" src="./src/images/terminal.png" />
 
-## Como executar?
+## :computer: Como executar?
 
 - Clone esse repositório: `git clone https://github.com/lemosantony/node-concepts-challenge.git`;
 - Entre na pasta criada: `cd node-concepts-challenge`
